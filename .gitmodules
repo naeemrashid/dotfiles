@@ -19,9 +19,6 @@
 [submodule ".vim/pack/plugins/start/ctrlp.vim"]
 	path = .vim/pack/plugins/start/ctrlp.vim
 	url = https://github.com/kien/ctrlp.vim.git
-[submodule ".vim/pack/plugins/start/lightline"]
-	path = .vim/pack/plugins/start/lightline
-	url = https://github.com/itchyny/lightline.vim.git
 [submodule ".vim/pack/plugins/start/repeat"]
 	path = .vim/pack/plugins/start/repeat
 	url = https://github.com/tpope/vim-repeat.git
